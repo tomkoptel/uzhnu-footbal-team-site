@@ -1,0 +1,149 @@
+{
+  "players": [
+    {
+      "name": "	Marc-André ter Stegen",
+      "position": "Goal Keeper",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen"
+    },
+    {
+      "name": "Nélson Semedo",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+      "site": "https://en.wikipedia.org/wiki/N%C3%A9lson_Semedo"
+    },
+    {
+      "name": "Gerard Piqué",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9"
+    },
+    {
+      "name": "Ivan Rakitić",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Ivan_Rakitić"
+    },
+    {
+      "name": "Sergio Busquets",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Sergio_Busquets"
+    },
+    {
+      "name": "Denis Suárez",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Denis_Su%C3%A1rez"
+    },
+    {
+      "name": "Andrés Iniesta",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta"
+    },
+    {
+      "name": "Luis Suárez",
+      "position": "Forward",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez"
+    },
+    {
+      "name": "Lionel Messi",
+      "position": "Forward",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Lionel_Messi"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "position": "Forward",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+    },
+    {
+      "name": "Rafinha",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Rafinha_(footballer,_born_1993)"
+    },
+    {
+      "name": "Rafinha",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Rafinha_(footballer,_born_1993)"
+    },
+    {
+      "name": "Jasper Cillessen",
+      "position": "Goalkeeper",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Jasper_Cillessen"
+    },
+    {
+      "name": "Javier Mascherano",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Javier_Mascherano"
+    },
+    {
+      "name": "Paulinho",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Paulinho_(footballer)"
+    },
+    {
+      "name": "Gerard Deulofeu",
+      "position": "Forward",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Gerard_Deulofeu"
+    },
+    {
+      "name": "Paco Alcácer",
+      "position": "Forward",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Lucas_Digne"
+    },
+    {
+      "name": "Jordi Alba",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Jordi_Alba"
+    },
+    {
+      "name": "Lucas Digne",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Lucas_Digne"
+    },
+    {
+      "name": "Sergi Roberto",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Sergi_Roberto"
+    },
+    {
+      "name": "André Gomes",
+      "position": "Midfielder",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gomes"
+    },
+    {
+      "name": "Aleix Vidal",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Aleix_Vidal"
+    },
+    {
+      "name": "Samuel Umtiti",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Samuel_Umtiti"
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "position": "Defender",
+      "country_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+      "site": "https://en.wikipedia.org/wiki/Thomas_Vermaelen"
+    }
+  ],
+  "history": "Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto \"Més que un club\" (English: \"More than a club\"). Unlike many other football clubs, the supporters own and operate Barcelona. It is the second most valuable sports team in the world, worth $3.56 billion, and the world's second richest football club in terms of revenue, with an annual turnover of €560.8 million.[2][3] The official Barcelona anthem is the \"Cant del Barça\", written by Jaume Picas and Josep Maria Espinàs.[4] Domestically, Barcelona has won 24 La Liga, 29 Copa del Rey, 12 Supercopa de España, 3 Copa Eva Duarte and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions. In international club football, Barcelona has won twenty European and World titles — four UEFA Champions League titles and one European Cup, a record four UEFA Cup Winners' Cup, a shared record five UEFA Super Cup, a record three Inter-Cities Fairs Cup and a record three FIFA Club World Cup.[5] Barcelona was ranked first in the IFFHS Club World Ranking for 1997, 2009, 2011, 2012 and 2015[6][7] and currently occupies the third position on the UEFA club rankings.[8] The club has a long-standing rivalry with Real Madrid; matches between the two teams are referred to as El Clásico. Barcelona is one of the most widely supported teams in the world, and the club has one of the largest social media following in the world among sports teams.[9][10] Barcelona players have won a record number of Ballon d'Or awards (11), with recipients including Johan Cruyff, as well as a record number of FIFA World Player of the Year awards (7), with winners including Ronaldo, Romário and Ronaldinho. In 2010, three players who came through the club's youth academy (Lionel Messi, Andrés Iniesta and Xavi) were chosen as the three best players in the world in the FIFA Ballon d'Or awards, an unprecedented feat for players from the same football school. Barcelona is one of three founding members of the Primera División that have never been relegated from the top division, along with Athletic Bilbao and Real Madrid. In 2009, Barcelona became the first Spanish club to win the continental treble consisting of La Liga, Copa del Rey, and the UEFA Champions League, and also became the first Spanish football club to win six out of six competitions in a single year, by also winning the Spanish Super Cup, UEFA Super Cup and FIFA Club World Cup.[11] In 2011, the club became European champions again and won five trophies. This Barcelona team, which won 14 trophies in just 4 years under Pep Guardiola, is considered by some in the sport to be the greatest team of all time.[12][13][14] By winning their fifth Champions League trophy on 6 June 2015, Barcelona became the first European club in history to achieve the continental treble twice. Apart from its professional football senior team, FC Barcelona has a large number of successful sections that include women's football, beach soccer, basketball, wheelchair basketball, handball, roller hockey, ice hockey, rugby union, rugby league, futsal and men's and women's volleyball."
+}

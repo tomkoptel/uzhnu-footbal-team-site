@@ -1,0 +1,126 @@
+{% capture build_version %}{{ site.time | date: "%Y%m%d%H%M%S" }}{% endcapture %}<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>Hello, world!</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <!--Responsive meta tag. See: https://getbootstrap.com/docs/4.0/getting-started/introduction/#responsive-meta-tag-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <!--Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,700|News+Cycle:400,700" rel="stylesheet">
+
+    <style type="text/css">
+        /* Navigation */
+
+        .navbar {
+            background: #fff;
+            border-bottom: 2px solid #000;
+            padding-left: 0;
+            padding-right: 0;
+            margin-bottom: 13px; /* for Bootstrap 4 alpha: margin-bottom: 10px; */
+        }
+
+        .navbar-toggler {
+            border-width: 2px;
+            border-color: #000 !important;
+            border-radius: 0;
+            margin-top: 0; /* for Bootstrap 4 alpha: margin-top: 4px; */
+            margin-right: 0; /* for Bootstrap 4 alpha: margin-right: -15px; */
+        }
+
+        .navbar-toggler:focus, .navbar-toggler.focus {
+            outline: none;
+        }
+
+        .navbar-toggler:active, .navbar-toggler.active {
+            background-color: #e5e5e5;
+        }
+
+        .navbar-light .navbar-toggler-icon {
+            background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 1.0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+        }
+
+        .navbar-collapse {
+            font-size: 20px;
+            margin-right: -8px;
+        }
+
+        @media (max-width: 767px) {
+            .navbar-collapse {
+                text-align: center;
+                margin-top: -2.5px;
+                margin-bottom: 2.5px;
+            }
+            .navbar-collapse .nav-item {
+                border: 2px solid #e5e5e5;
+                margin-top: 2.5px;
+                margin-bottom: 2.5px;
+            }
+        }
+
+        .navbar-light .navbar-nav .open > .nav-link,
+        .navbar-light .navbar-nav .active > .nav-link,
+        .navbar-light .navbar-nav .nav-link.open,
+        .navbar-light .navbar-nav .nav-link.active {
+            text-decoration: underline;
+        }
+
+        .flag {
+            width: 23px;
+            height: 14px;
+        }
+    </style>
+</head>
+<body data-gr-c-s-loaded="true">
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <nav class="navbar navbar-expand-md navbar-light bg-faded fixed-top sticky-top">
+                <a class="navbar-brand" href="index.html"><img
+                        src="https://media-public.fcbarcelona.com/20157/28952/198639/1.1/198639.png?t=1446107699000"
+                        width="125" height="" alt="Thisness logo"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+                        aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarToggler">
+                    <ul class="navbar-nav ml-auto mt-2 mt-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#history">History</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#team">Team</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+
+            {{ content }}
+
+
+        </div>
+
+
+        </div>
+    </div>
+</div>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+</body>
+</html>
