@@ -15,6 +15,7 @@
     <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,700|News+Cycle:400,700" rel="stylesheet">
 
     <style type="text/css">
+        /* Styles taken from https://www.thisness.com/ */
         /* Navigation */
 
         .navbar {
@@ -70,6 +71,23 @@
             text-decoration: underline;
         }
 
+        /* Footer */
+
+        footer {
+            border-top: 2px solid #000;
+        }
+
+        footer a {
+            color: #000;
+        }
+
+        a[href^="tel"] { /* to override iOS styling of telephone number */
+            color: inherit;
+            text-decoration: none;
+        }
+
+        /* Custom */
+
         .flag {
             width: 23px;
             height: 14px;
@@ -97,6 +115,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#team">Team</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#video">Video</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
@@ -104,6 +125,24 @@
 
             {{ content }}
 
+
+            <footer>
+                <div class="container" style="padding:3rem 0">
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <div style="margin-bottom:.5rem">
+                                <a href="https://twitter.com/TomKoptel"><img src="https://www.thisness.com/img/twitter.svg" width="" height="30" alt="Twitter glyph" style="padding-right:5px"></a>
+                                <a href="https://www.linkedin.com/in/tom-koptel-519b2036/"><img src="https://www.thisness.com/img/linkedin.svg" width="" height="30" alt="LinkedIn glyph"></a>
+                            </div>
+
+                            <p itemscope="" itemtype="http://schema.org/ContactPoint" style="margin-bottom:.5rem"><a href="mailto:tom.koptel@gmail.com"><span itemprop="email">tom.koptel@gmail.com</span></a>&nbsp;</p>
+                            <p>_ _ _</p>
+
+                            <p style="margin-bottom:0">2017 UZHNU</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
 
         </div>
 
