@@ -44,6 +44,44 @@ layout: default
     </table>
 </div>
 
+<div class="text-left" style="padding:3rem 1.5rem">
+    <h1 id="league" class="text-center">League</h1>
+    <table class="table">
+        <thead>
+        <tr>
+            <th scope="col">No.</th>
+            <th scope="col">Team</th>
+            <th scope="col">MP</th>
+            <th scope="col">W</th>
+            <th scope="col">D</th>
+            <th scope="col">L</th>
+            <th scope="col">GF</th>
+            <th scope="col">GA</th>
+            <th scope="col">GD</th>
+            <th scope="col">PTS</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for team in site.data.championship.teams %}
+        <tr>
+            <th scope="row">{{forloop.index}}</th>
+            <td><img style="height: 24px; width: 24px;" src="{{team.icon}}"/>
+                {{ team.name }}
+            </td>
+            <td>{{team.mp}}</td>
+            <td>{{team.w}}</td>
+            <td>{{team.d}}</td>
+            <td>{{team.l}}</td>
+            <td>{{team.gf}}</td>
+            <td>{{team.ga}}</td>
+            <td>{{team.gd}}</td>
+            <td>{{team.pts}}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
 <div class='row'>
     <div class='col-sm-2'></div>
     <div class='col-sm-8'>

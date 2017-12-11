@@ -1,0 +1,64 @@
+{
+  "teams": [
+    {
+      "name": "Barcelona",
+      "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
+      "mp": 15,
+      "w": 12,
+      "d": 3,
+      "l": 0,
+      "gf": 38,
+      "ga": 7,
+      "gd": 31,
+      "pts": 39
+    },
+    {
+      "name": "Valencia",
+      "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_48x48.png",
+      "mp": 15,
+      "w": 10,
+      "d": 4,
+      "l": 1,
+      "gf": 35,
+      "ga": 14,
+      "gd": 21,
+      "pts": 34
+    },
+    {
+      "name": "Atlético Madrid",
+      "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_48x48.png",
+      "mp": 15,
+      "w": 9,
+      "d": 6,
+      "l": 0,
+      "gf": 24,
+      "ga": 7,
+      "gd": 17,
+      "pts": 33
+    },
+    {
+      "name": "Real Madrid",
+      "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_48x48.png",
+      "mp": 15,
+      "w": 9,
+      "d": 4,
+      "l": 2,
+      "gf": 30,
+      "ga": 11,
+      "gd": 19,
+      "pts": 31
+    },
+    {
+      "name": "Sevilla",
+      "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_48x48.png",
+      "mp": 15,
+      "w": 9,
+      "d": 1,
+      "l": 5,
+      "gf": 19,
+      "ga": 19,
+      "gd": 0,
+      "pts": 28
+    }
+  ]
+}
